@@ -1,0 +1,41 @@
+:root {
+    --bs-body-bg: #f5f5f7;
+}
+
+.navbar {
+    --bs-navbar-toggler-border-color: none;
+    --bs-navbar-toggler-focus-width: none;
+}
+
+.overflow-x {
+    overflow-x: scroll;
+    white-space: nowrap;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    color: black;
+}
+
+.scrolly {
+    overflow-y: scroll;
+}
+
+.card {
+    --bs-card-border-width: 0px;
+    outline: 1px solid #ededf0;
+}
+
+.card-title {
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.card-subtitle {
+    text-decoration: none;
+    color: rgb(108, 117, 125);
+    font-weight: 400;
+}
